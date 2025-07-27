@@ -1,0 +1,192 @@
+[
+  {
+    "prop_id": "property1",
+    "houseNumber": "A-101",
+    "floor": 1,
+    "tower": "Tower A",
+    "property_type": "Studio",
+    "rentAmount": 9000,
+    "advanceAmount": 27000,
+    "facing": "East",
+    "bedrooms": 1,
+    "balconies": 1,
+    "bathrooms": 1,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PA-01"
+    }
+  },
+  {
+    "prop_id": "property2",
+    "houseNumber": "B-305",
+    "floor": 3,
+    "tower": "Tower B",
+    "property_type": "Studio",
+    "rentAmount": 8000,
+    "advanceAmount": 24000,
+    "facing": "North",
+    "bedrooms": 1,
+    "balconies": 1,
+    "bathrooms": 1,
+    "furnishing": "Semi Furnished",
+    "petAllowed": false,
+    "carParking": {
+      "available": false,
+      "parkingNumber": null
+    }
+  },
+  {
+    "prop_id": "property3",
+    "houseNumber": "C-202",
+    "floor": 2,
+    "tower": "Tower C",
+    "property_type": "Affordable",
+    "rentAmount": 10000,
+    "advanceAmount": 30000,
+    "facing": "West",
+    "bedrooms": 2,
+    "balconies": 1,
+    "bathrooms": 2,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PC-12"
+    }
+  },
+  {
+    "prop_id": "property4",
+    "houseNumber": "D-401",
+    "floor": 4,
+    "tower": "Tower D",
+    "property_type": "Studio",
+    "rentAmount": 11000,
+    "advanceAmount": 33000,
+    "facing": "South",
+    "bedrooms": 1,
+    "balconies": 1,
+    "bathrooms": 1,
+    "furnishing": "Semi Furnished",
+    "petAllowed": false,
+    "carParking": {
+      "available": false,
+      "parkingNumber": null
+    }
+  },
+  {
+    "prop_id": "property5",
+    "houseNumber": "E-104",
+    "floor": 1,
+    "tower": "Tower E",
+    "property_type": "Luxurious",
+    "rentAmount": 20000,
+    "advanceAmount": 60000,
+    "facing": "North-East",
+    "bedrooms": 4,
+    "balconies": 3,
+    "bathrooms": 3,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PE-09"
+    }
+  },
+  {
+    "prop_id": "property6",
+    "houseNumber": "F-302",
+    "floor": 3,
+    "tower": "Tower F",
+    "property_type": "Affordable",
+    "rentAmount": 12000,
+    "advanceAmount": 36000,
+    "facing": "West",
+    "bedrooms": 2,
+    "balconies": 1,
+    "bathrooms": 2,
+    "furnishing": "Semi Furnished",
+    "petAllowed": false,
+    "carParking": {
+      "available": false,
+      "parkingNumber": null
+    }
+  },
+  {
+    "prop_id": "property7",
+    "houseNumber": "G-205",
+    "floor": 2,
+    "tower": "Tower G",
+    "property_type": "Luxurious",
+    "rentAmount": 18000,
+    "advanceAmount": 54000,
+    "facing": "East",
+    "bedrooms": 3,
+    "balconies": 3,
+    "bathrooms": 3,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PG-05"
+    }
+  },
+  {
+    "prop_id": "property8",
+    "houseNumber": "H-407",
+    "floor": 4,
+    "tower": "Tower H",
+    "property_type": "Studio",
+    "rentAmount": 10000,
+    "advanceAmount": 30000,
+    "facing": "South-East",
+    "bedrooms": 1,
+    "balconies": 1,
+    "bathrooms": 1,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PH-07"
+    }
+  },
+  {
+    "prop_id": "property9",
+    "houseNumber": "I-106",
+    "floor": 1,
+    "tower": "Tower I",
+    "property_type": "Affordable",
+    "rentAmount": 10500,
+    "advanceAmount": 21000,
+    "facing": "North-West",
+    "bedrooms": 2,
+    "balconies": 1,
+    "bathrooms": 2,
+    "furnishing": "Semi Furnished",
+    "petAllowed": false,
+    "carParking": {
+      "available": false,
+      "parkingNumber": null
+    }
+  },
+  {
+    "prop_id": "property10",
+    "houseNumber": "J-208",
+    "floor": 2,
+    "tower": "Tower J",
+    "property_type": "Studio",
+    "rentAmount": 11500,
+    "advanceAmount": 23000,
+    "facing": "East",
+    "bedrooms": 1,
+    "balconies": 1,
+    "bathrooms": 1,
+    "furnishing": "Furnished",
+    "petAllowed": true,
+    "carParking": {
+      "available": true,
+      "parkingNumber": "PJ-03"
+    }
+  }
+]

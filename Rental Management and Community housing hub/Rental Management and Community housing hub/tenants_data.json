@@ -1,0 +1,152 @@
+[
+  {
+    "tenant_id": "tenant1",
+    "name": "Aakash Singh",
+    "houseNumber": "A-201",
+    "floor": 2,
+    "tower": "Tower A",
+    "phone": "9811122233",
+    "email": "aakash.singh@example.com",
+    "familyMembers": 3,
+    "pets": {
+      "hasPets": true,
+      "details": "1 Labrador dog named Bruno"
+    },
+    "rentPaid": 1200
+  },
+  {
+    "tenant_id": "tenant2",
+    "name": "Meera Patel",
+    "houseNumber": "B-102",
+    "floor": 1,
+    "tower": "Tower B",
+    "phone": "9822233445",
+    "email": "meera.patel@example.com",
+    "familyMembers": 2,
+    "pets": {
+      "hasPets": false,
+      "details": null
+    },
+    "rentPaid": 1100
+  },
+  {
+    "tenant_id": "tenant3",
+    "name": "Karan Malhotra",
+    "houseNumber": "C-303",
+    "floor": 3,
+    "tower": "Tower C",
+    "phone": "9833344556",
+    "email": "karan.malhotra@example.com",
+    "familyMembers": 4,
+    "pets": {
+      "hasPets": true,
+      "details": "2 Persian cats"
+    },
+    "rentPaid": 1400
+  },
+  {
+    "tenant_id": "tenant4",
+    "name": "Sneha Rao",
+    "houseNumber": "D-101",
+    "floor": 1,
+    "tower": "Tower D",
+    "phone": "9844455667",
+    "email": "sneha.rao@example.com",
+    "familyMembers": 1,
+    "pets": {
+      "hasPets": false,
+      "details": null
+    },
+    "rentPaid": 900
+  },
+  {
+    "tenant_id": "tenant5",
+    "name": "Rohan Kapoor",
+    "houseNumber": "E-404",
+    "floor": 4,
+    "tower": "Tower E",
+    "phone": "9855566778",
+    "email": "rohan.kapoor@example.com",
+    "familyMembers": 5,
+    "pets": {
+      "hasPets": true,
+      "details": "1 parrot and 1 turtle"
+    },
+    "rentPaid": 1500
+  },
+  {
+    "tenant_id": "tenant6",
+    "name": "Divya Menon",
+    "houseNumber": "F-206",
+    "floor": 2,
+    "tower": "Tower F",
+    "phone": "9866677889",
+    "email": "divya.menon@example.com",
+    "familyMembers": 2,
+    "pets": {
+      "hasPets": false,
+      "details": null
+    },
+    "rentPaid": 1000
+  },
+  {
+    "tenant_id": "tenant7",
+    "name": "Nikhil Jain",
+    "houseNumber": "G-309",
+    "floor": 3,
+    "tower": "Tower G",
+    "phone": "9877788990",
+    "email": "nikhil.jain@example.com",
+    "familyMembers": 3,
+    "pets": {
+      "hasPets": false,
+      "details": null
+    },
+    "rentPaid": 1250
+  },
+  {
+    "tenant_id": "tenant8",
+    "name": "Ananya Deshmukh",
+    "houseNumber": "H-108",
+    "floor": 1,
+    "tower": "Tower H",
+    "phone": "9888899001",
+    "email": "ananya.deshmukh@example.com",
+    "familyMembers": 4,
+    "pets": {
+      "hasPets": true,
+      "details": "1 Golden Retriever"
+    },
+    "rentPaid": 1350
+  },
+  {
+    "tenant_id": "tenant9",
+    "name": "Vivek Reddy",
+    "houseNumber": "I-210",
+    "floor": 2,
+    "tower": "Tower I",
+    "phone": "9899900112",
+    "email": "vivek.reddy@example.com",
+    "familyMembers": 2,
+    "pets": {
+      "hasPets": false,
+      "details": null
+    },
+    "rentPaid": 1050
+  },
+  {
+    "tenant_id": "tenant10",
+    "name": "Pooja Bhatt",
+    "houseNumber": "J-301",
+    "floor": 3,
+    "tower": "Tower J",
+    "phone": "9900011223",
+    "email": "pooja.bhatt@example.com",
+    "familyMembers": 3,
+    "pets": {
+      "hasPets": true,
+      "details": "1 Siamese cat"
+    },
+    "rentPaid": 1150
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "req_id": "request1",
+    "tenant_id": "tenant1",
+    "property_id": "property1",
+    "description": "Leaking faucet in kitchen",
+    "photo": "https://example.com/photos/faucet_leak.jpg",
+    "status": "Pending",
+    "createdAt": "2025-07-10"
+  },
+  {
+    "req_id": "request2",
+    "tenant_id": "tenant2",
+    "property_id": "property2",
+    "description": "AC not cooling properly",
+    "photo": "https://example.com/photos/ac_issue.jpg",
+    "status": "In Progress",
+    "createdAt": "2025-07-11"
+  },
+  {
+    "req_id": "request3",
+    "tenant_id": "tenant3",
+    "property_id": "property3",
+    "description": "Broken window lock in bedroom",
+    "photo": "https://example.com/photos/window_lock.jpg",
+    "status": "Resolved",
+    "createdAt": "2025-07-09"
+  },
+  {
+    "req_id": "request4",
+    "tenant_id": "tenant4",
+    "property_id": "property4",
+    "description": "Water heater malfunctioning",
+    "photo": "https://example.com/photos/heater_issue.jpg",
+    "status": "Pending",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "req_id": "request5",
+    "tenant_id": "tenant5",
+    "property_id": "property5",
+    "description": "Cracks in the bathroom wall",
+    "photo": "https://example.com/photos/bathroom_cracks.jpg",
+    "status": "In Progress",
+    "createdAt": "2025-07-13"
+  },
+  {
+    "req_id": "request6",
+    "tenant_id": "tenant6",
+    "property_id": "property6",
+    "description": "Kitchen cabinet door is loose",
+    "photo": "https://example.com/photos/cabinet_door.jpg",
+    "status": "Pending",
+    "createdAt": "2025-07-14"
+  },
+  {
+    "req_id": "request7",
+    "tenant_id": "tenant7",
+    "propertyId": "property7",
+    "description": "Light flickering in living room",
+    "photo": "https://example.com/photos/light_flicker.jpg",
+    "status": "Resolved",
+    "createdAt": "2025-07-08"
+  },
+  {
+    "req_id": "request8",
+    "tenant_id": "tenant8",
+    "property_id": "property8",
+    "description": "Clogged bathroom drain",
+    "photo": "https://example.com/photos/clogged_drain.jpg",
+    "status": "In Progress",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "req_id": "request9",
+    "tenant_id": "tenant9",
+    "property_id": "property9",
+    "description": "Paint peeling off bedroom wall",
+    "photo": "https://example.com/photos/peeling_paint.jpg",
+    "status": "Pending",
+    "createdAt": "2025-07-16"
+  },
+  {
+    "req_id": "request10",
+    "tenant_id": "tenant10",
+    "property_id": "property10",
+    "description": "Ceiling fan making noise",
+    "photo": "https://example.com/photos/fan_noise.jpg",
+    "status": "Resolved",
+    "createdAt": "2025-07-07"
+  }
+]

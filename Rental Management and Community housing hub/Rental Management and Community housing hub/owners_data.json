@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "owner1",
+    "name": "Ravi Sharma",
+    "houseNumber": "A-101",
+    "floor": 1,
+    "tower": "Tower A",
+    "phone": "9876543210",
+    "email": "ravi.sharma@example.com",
+    "bankDetails": {
+      "bankName": "HDFC Bank",
+      "accountNumber": "123456789012",
+      "ifscCode": "HDFC0001234"
+    }
+  },
+  {
+    "_id": "owner2",
+    "name": "Sunita Mehta",
+    "houseNumber": "B-305",
+    "floor": 3,
+    "tower": "Tower B",
+    "phone": "9823456781",
+    "email": "sunita.mehta@example.com",
+    "bankDetails": {
+      "bankName": "ICICI Bank",
+      "accountNumber": "987654321098",
+      "ifscCode": "ICIC0005678"
+    }
+  },
+  {
+    "_id": "owner3",
+    "name": "Amit Verma",
+    "houseNumber": "C-202",
+    "floor": 2,
+    "tower": "Tower C",
+    "phone": "9812345678",
+    "email": "amit.verma@example.com",
+    "bankDetails": {
+      "bankName": "State Bank of India",
+      "accountNumber": "112233445566",
+      "ifscCode": "SBIN0007788"
+    }
+  },
+  {
+    "_id": "owner4",
+    "name": "Neha Kapoor",
+    "houseNumber": "D-401",
+    "floor": 4,
+    "tower": "Tower D",
+    "phone": "9900112233",
+    "email": "neha.kapoor@example.com",
+    "bankDetails": {
+      "bankName": "Axis Bank",
+      "accountNumber": "556677889900",
+      "ifscCode": "UTIB0001234"
+    }
+  },
+  {
+    "_id": "owner5",
+    "name": "Manoj Bansal",
+    "houseNumber": "E-104",
+    "floor": 1,
+    "tower": "Tower E",
+    "phone": "9988776655",
+    "email": "manoj.bansal@example.com",
+    "bankDetails": {
+      "bankName": "Punjab National Bank",
+      "accountNumber": "123443211234",
+      "ifscCode": "PUNB0004567"
+    }
+  },
+  {
+    "_id": "owner6",
+    "name": "Priya Iyer",
+    "houseNumber": "F-302",
+    "floor": 3,
+    "tower": "Tower F",
+    "phone": "9871234560",
+    "email": "priya.iyer@example.com",
+    "bankDetails": {
+      "bankName": "Kotak Mahindra Bank",
+      "accountNumber": "102938475610",
+      "ifscCode": "KKBK0007890"
+    }
+  },
+  {
+    "_id": "owner7",
+    "name": "Arun Joshi",
+    "houseNumber": "G-205",
+    "floor": 2,
+    "tower": "Tower G",
+    "phone": "9765432109",
+    "email": "arun.joshi@example.com",
+    "bankDetails": {
+      "bankName": "Yes Bank",
+      "accountNumber": "223344556677",
+      "ifscCode": "YESB0001234"
+    }
+  },
+  {
+    "_id": "owner8",
+    "name": "Deepa Nair",
+    "houseNumber": "H-407",
+    "floor": 4,
+    "tower": "Tower H",
+    "phone": "9123456789",
+    "email": "deepa.nair@example.com",
+    "bankDetails": {
+      "bankName": "IndusInd Bank",
+      "accountNumber": "667788990011",
+      "ifscCode": "INDB0004567"
+    }
+  },
+  {
+    "_id": "owner9",
+    "name": "Rakesh Gupta",
+    "houseNumber": "I-106",
+    "floor": 1,
+    "tower": "Tower I",
+    "phone": "9345678901",
+    "email": "rakesh.gupta@example.com",
+    "bankDetails": {
+      "bankName": "Bank of Baroda",
+      "accountNumber": "332211445566",
+      "ifscCode": "BARB0007890"
+    }
+  },
+  {
+    "_id": "owner10",
+    "name": "Anita Das",
+    "houseNumber": "J-208",
+    "floor": 2,
+    "tower": "Tower J",
+    "phone": "9456789012",
+    "email": "anita.das@example.com",
+    "bankDetails": {
+      "bankName": "Canara Bank",
+      "accountNumber": "889900112233",
+      "ifscCode": "CNRB0001122"
+    }
+  }
+]

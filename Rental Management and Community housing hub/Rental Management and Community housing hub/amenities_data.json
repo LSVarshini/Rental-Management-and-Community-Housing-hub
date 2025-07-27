@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "amenity1",
+    "propertyId": "property1",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity2",
+    "propertyId": "property2",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity3",
+    "propertyId": "property3",
+    "amenities": [
+      "Kids Play Area",
+      "Park",
+      "Rain Water Harvesting",
+      "Clubhouse"
+    ]
+  },
+  {
+    "_id": "amenity4",
+    "propertyId": "property4",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity5",
+    "propertyId": "property5",
+    "amenities": [
+      "Intercom",
+      "Visitor Parking",
+      "Pet Area",
+      "Solar Power",
+      "Garden",
+      "Clubhouse",
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity6",
+    "propertyId": "property6",
+    "amenities": [
+      "Kids Play Area",
+      "Park",
+      "Rain Water Harvesting",
+      "Clubhouse"
+    ]
+  },
+  {
+    "_id": "amenity7",
+    "propertyId": "property7",
+    "amenities": [
+      "Intercom",
+      "Visitor Parking",
+      "Pet Area",
+      "Solar Power",
+      "Garden",
+      "Clubhouse",
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity8",
+    "propertyId": "property8",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  },
+  {
+    "_id": "amenity9",
+    "propertyId": "property9",
+    "amenities": [
+      "Kids Play Area",
+      "Park",
+      "Rain Water Harvesting",
+      "Clubhouse"
+    ]
+  },
+  {
+    "_id": "amenity10",
+    "propertyId": "property10",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Park",
+      "Swimming Pool"
+    ]
+  }
+]
